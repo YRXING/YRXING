@@ -6,10 +6,10 @@
 
 ## 🔨 Skill
 
-- Language: Go, C/C++, Java
-- Research field: cloud native, edge computing, distributed system
-- Framework: Kubernetes, Kubeedge, OpenYurt, Docker
-- Others: eBPF tech
+- **Languages:** Go, C/C++, Java
+- **Research fields:** cloud native, edge computing, distributed system
+- **Frameworks:** Kubernetes, Kubeedge, OpenYurt, Docker
+- **Others:** eBPF tech
 
 
 
