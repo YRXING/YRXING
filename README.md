@@ -1,4 +1,4 @@
-<h2 align="Center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30"> Hi,&nbsp I am Ruixing Yin <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="3px"></h3>
+<h2 align="Center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30"> Hi,&nbsp I am Ruixing Yin <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 
 ## 🏫 SEL Lab at Zhejiang University👨‍🎓
 
