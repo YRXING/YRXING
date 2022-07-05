@@ -6,7 +6,10 @@
 
 ## 🔨 Skill
 
-- Kubernetes	Kubeedge	Docker	Golang	Linux	...
+- Language: Go, C/C++, Java
+- Research field: cloud native, edge computing, distributed system
+- Framework: Kubernetes, Kubeedge, OpenYurt, Docker
+- Others: eBPF tech
 
 
 
