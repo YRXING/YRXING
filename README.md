@@ -2,13 +2,12 @@
 
 ## 🏫 SEL Lab at Zhejiang University👨‍🎓
 
-## 💗 Not a single man, prefer ZJY🐑
-
 ## 🔨 Skill
 
 - **Languages:** Go, C/C++, Java
-- **Research fields:** cloud native, edge computing, distributed system
+- **Research fields:** cloud native, edge computing, distributed system, high perfermence network
 - **Frameworks:** Kubernetes, Kubeedge, OpenYurt, Docker
+- **Network**: dpdk,kernerl/user network stack,rdma
 - **Others:** eBPF tech
 
 
