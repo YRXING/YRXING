@@ -5,10 +5,10 @@
 ## 🔨 Skill
 
 - **Languages:** Go, C/C++, Java
-- **Research fields:** cloud native, edge computing, distributed system, high perfermence network
-- **Frameworks:** Kubernetes, Kubeedge, OpenYurt, Docker
+- **Research fields:** cloud native, edge computing, distributed system, high perfermence network, gpu profiling
+- **Frameworks:** Kubernetes, Docker/Containerd, Podman
 - **Network**: dpdk,kernerl/user network stack,rdma
-- **Others:** eBPF tech
+- **Others:** eBPF
 
 
 
